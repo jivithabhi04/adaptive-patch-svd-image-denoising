@@ -162,10 +162,7 @@ You can change these values to explore different patch sizes, noise levels, and 
 - Pillow
 - Singular Value Decomposition (SVD)
 
-## Author
 
-**R. Jivith Abhishek**  
-M.Tech, Electronics and Communication Engineering  
 National Institute of Technology Calicut
 
 ---
